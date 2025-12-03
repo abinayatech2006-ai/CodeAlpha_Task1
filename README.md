@@ -1,9 +1,7 @@
 Iris Flower Classification — CodeAlpha Internship Task 1
 
 This project is part of the CodeAlpha Data Science Internship program.
-
-Project Overview
-
+Project Overview:
 The objective is to classify Iris flowers into three species:
 Setosa
 Versicolor
@@ -40,8 +38,7 @@ Model achieved high accuracy on the test set
 Classification report includes precision, recall & F1-score
 Model successfully differentiates among the three Iris species
 
-Libraries Used
-
+Libraries Used:
 Python 3
 Scikit-learn
 Numpy
